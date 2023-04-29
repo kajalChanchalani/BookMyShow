@@ -1,0 +1,28 @@
+Requirements
+
+
+Actors - 
+End Customer 
+Owners of Theatres
+System 
+
+Sequence of events performed by End Customer
+1. Login 
+2. Search for city 
+3. Search for movie 
+4. Choose a theatre/show/seat 
+5. Booking seat 
+6. Payment
+7. Get real time notifications
+8. Give ratings
+
+
+Sequence of events performed by Theatre Owner
+1. Add movie and relevant details
+2. Remove or add any or all shows
+3. Modify show timings 
+
+System 
+1. Onboard City and Theatres in the city
+2. Send notifications
+3. Management Payment gateway 
